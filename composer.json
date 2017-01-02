@@ -1,0 +1,8 @@
+{
+    "name": "marcinmatras/InisApi",
+    "autoload": {
+        "psr-0" : {
+            "Marcinmatras\\InisApi" : "src"
+        }
+    }
+}
