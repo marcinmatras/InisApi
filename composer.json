@@ -1,6 +1,6 @@
 {
     "name": "marcinmatras/inis-api",
-    "description": "Biblioteka umożliwiająca dodawanie, usuwanie, modyfikację i sprawdzania adresów e-mail w systemie INIS.",
+    "description": "Biblioteka umożliwiająca dodawanie, usuwanie, modyfikację i sprawdzania adresów e-mail w systemie INIS (http://www.inis.pl).",
     "require": {
         "php": "^5.4.0 || ^7.0"
     },
